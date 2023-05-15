@@ -1,11 +1,11 @@
-# [Splash Screen](https://pub.dev/packages/miladtech_splashscreen)
+# [MiladTech Splash Screen](https://pub.dev/packages/miladtech_splashscreen)
 
 * A splashscreen package to be used for an intro for any flutter application easily with a lot of customization
 
-## Currently Supported by awesome [DPLYR](https://milad-tech.com)
+## Currently Supported by awesome [MiladTech](https://milad-tech.com)
 
 
-* [DPLYR](https://dplyr.dev) is a new generation of cloud platforms and aims to help developers in their road with open source contributions, and at the end we can say thanks.
+* [MiladTech](https://milad-tech.com) is a new generation of cloud platforms and aims to help developers in their road with open source contributions, and at the end we can say thanks.
 
 
 ## Usage
