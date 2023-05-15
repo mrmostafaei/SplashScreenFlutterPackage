@@ -1,5 +1,5 @@
 # [MiladTech Splash Screen](https://pub.dev/packages/miladtech_splashscreen)
-
+ 
 * A splashscreen package to be used for an intro for any flutter application easily with a lot of customization
 
 ## Currently Supported by awesome [MiladTech](https://milad-tech.com)
