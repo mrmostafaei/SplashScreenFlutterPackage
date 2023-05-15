@@ -213,6 +213,6 @@ class AfterSplash extends StatelessWidget {
 ```
 ### About MiladTech
 
-[DPLYR](https://milad-tech.com) is a SaaS tool that helps developers just like you to deploy their web apps more easily.
+[MiladTech](https://milad-tech.com) is a SaaS tool that helps developers just like you to deploy their web apps more easily.
 
-### Created by [Milad Mostafaei](https://github.com/mrmostafaei)
+### Created by [MiladTech](https://github.com/mrmostafaei)
