@@ -20,7 +20,7 @@ To use this package :
   dependencies:
     flutter:
       sdk: flutter
-    splashscreen:
+    miladtech_splashscreen:
 ```
 
 ### How to use
