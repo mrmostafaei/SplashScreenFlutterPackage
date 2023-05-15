@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:miladtech_splashscreen/splashscreen.dart';
+import 'package:miladtech_splashscreen/miladtech_splashscreen.dart';
 
 void main() {
   runApp(MaterialApp(home: MyApp()));
